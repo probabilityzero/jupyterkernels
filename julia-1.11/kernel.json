@@ -1,0 +1,14 @@
+{
+  "display_name": "Julia",
+  "argv": [
+    "C:\\ProgramData\\Scoop\\apps\\julia\\current\\bin\\julia.exe",
+    "-i",
+    "--color=yes",
+    "--project=@.",
+    "C:\\Users\\prime\\.julia\\packages\\IJulia\\dR0lE\\src\\kernel.jl",
+    "{connection_file}"
+  ],
+  "language": "julia",
+  "env": {},
+  "interrupt_mode": "message"
+}

@@ -1,0 +1,12 @@
+{
+  "argv": [
+    "java",
+    "-cp",
+    "C:\\Users\\prime\\AppData\\Roaming\\jupyter\\kernels\\scala\\launcher.jar",
+    "coursier.bootstrap.launcher.Launcher",
+    "--connection-file",
+    "{connection_file}"
+  ],
+  "display_name": "Scala",
+  "language": "scala"
+}

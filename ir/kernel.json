@@ -1,0 +1,5 @@
+{
+  "argv": ["C:/ProgramData/Scoop/apps/r/current/bin/x64/R", "--slave", "-e", "IRkernel::main()", "--args", "{connection_file}"],
+  "display_name": "R",
+  "language": "R"
+}
